@@ -5,3 +5,22 @@ NodeJS + hapi - module (replace NodeJS static express module)
 MyTest3.jsx (front-end-hipster)
 
 
+
+Hapi-module Links:
+
+-----------
+allow cors : https://github.com/hapijs/hapi/issues/2256
+-----------
+Hapi and static express compare :
+-----------
+https://stackoverflow.com/questions/30469767/how-do-express-and-hapi-compare-to-each-other
+-----------
+Hapi-module tutorial:
+https://hapijs.com/tutorials
+
+
+
+
+
+
+
